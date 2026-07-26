@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0014-longest-common-prefix) |
+| [0118-pascals-triangle](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0118-pascals-triangle) |
 ## String
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
