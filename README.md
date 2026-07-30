@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
@@ -28,9 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
