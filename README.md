@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
@@ -44,4 +46,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
