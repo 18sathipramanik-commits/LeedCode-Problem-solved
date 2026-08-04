@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [3731-find-missing-elements](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [3731-find-missing-elements](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0169-majority-element) |
+| [3731-find-missing-elements](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
