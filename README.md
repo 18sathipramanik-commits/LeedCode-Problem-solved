@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/18sathipramanik-commits/LeedCode-Problem-solved/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
